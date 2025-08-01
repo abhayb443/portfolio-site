@@ -1,0 +1,16 @@
+{
+  "name": "Abhay Pandey - Technical Architect & Engineering Leader",
+  "short_name": "Abhay Pandey",
+  "description": "Technical Architect with 8+ years of experience scaling applications to 8M+ users, leading engineering teams, and driving fintech innovation.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1a365d",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+} 
